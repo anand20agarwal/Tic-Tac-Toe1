@@ -225,7 +225,7 @@ ol {
   background: none;
   border: 2px solid #fcd256;
   color: #fcd256;
-  padding: 0.5rem 1rem;
+  padding: 0.5rem 0rem;
   border-radius: 4px;
   cursor: pointer;
   transition: all 0.2s, color 0.2s;
